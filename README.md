@@ -11,3 +11,5 @@ Listas de resoluções:
 1.[JavaScript](https://github.com/rose-del/Beecrowd/tree/main/javascript)
 
 2.[Python](https://github.com/rose-del/Beecrowd/tree/main/python)
+
+3.[Java](https://github.com/rose-del/Beecrowd/tree/main/java)
