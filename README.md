@@ -2,7 +2,7 @@
 **RESOLUÇÃO DOS PROBLEMAS DO BEECROWD**
 ##
 
-Liguagens utilizadas: JavaScript e Python
+Liguagens utilizadas: JavaScript, Python e Java
 
 Perfil no Beecrowd: [@Rose_Santos](https://judge.beecrowd.com/pt/profile/559299)
 
